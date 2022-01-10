@@ -118,8 +118,10 @@ h1{
 input{
     margin: 10px;
     border: 2px solid tomato;
-    
 }
+.page3{
+        box-shadow: 5px 5px 10px rgb(129, 125, 125);
+    }
 button{
     margin: 10px;
     background-color: tomato;
