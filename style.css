@@ -180,11 +180,11 @@ a{
         top: -170px;
         left: -15px;
     }
-    input{
-        margin-top: 40px;
-    }
     .page3{
         box-shadow: 5px 5px 10px rgb(129, 125, 125);
+    }
+    input{
+        margin-top: 40px;
     }
     .div1,
     .div3,
