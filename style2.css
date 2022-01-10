@@ -172,6 +172,7 @@ a{
         position: relative;
         right: 40px;
         top: 20px;
+        box-shadow: 5px 5px 10px rgb(129, 125, 125);
     }
     hr{
         width: 190px;
