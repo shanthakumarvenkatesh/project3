@@ -187,6 +187,9 @@ a{
         position: relative;
         left: 80px;
     }
+    .page3{
+        box-shadow: 5px 5px 10px rgb(129, 125, 125);
+    }
     input{
         margin-top: 35px;
     }
